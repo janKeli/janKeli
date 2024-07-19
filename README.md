@@ -1,7 +1,7 @@
 ## Hello, world
 My name is jan Elikan.
 
-I'm trying to externalize my brain and keep as much of it as I can public, you can find my working notes [here](janelikan.github.io).
+I'm trying to externalize my brain and keep as much of it as I can public, you can find my working notes [here](https://janelikan.github.io).
 
 Here's the [list of projects that I'm currently working on](https://janelikan.github.io/now/).
 
