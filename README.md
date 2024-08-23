@@ -1,5 +1,5 @@
 ## Hello, world
-My name is jan Elikan.
+My name is jan Elikan ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet): `/jan'elikan/`).
 
 I'm trying to externalize my brain and keep as much of it as I can public, you can find my working notes [here](https://janelikan.github.io).
 
