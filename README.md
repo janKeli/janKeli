@@ -1,17 +1,17 @@
 ## Hello, world
 My name is jan Keli ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet): `/jan'keli/`).
 
-I'm trying to externalize my brain and keep as much of it as I can public, you can find my working notes [here](https://jankeli.github.io).
+I'm currently starting a new [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) system.
 
-I don't really know how to talk to people, so I want to get feedback on literally everything. Please create an issue if you have any!
+Please create an issue if you have any feedback on any repo!
 
-## Current project
+## [Current project](https://github.com/janKeli/wiki)
 
-Codename: web
+Codename: wiki
 
 Phase: sketching
 
-Releasing: 2024-12-15
+Releasing: 2025-01-13
 
 Description:
-> website restructuring & redesign
+> my new zettelkasten system and an SSG for it
